@@ -27,3 +27,12 @@ Welcome to **Burger Bliss** — a modern and responsive burger shop website buil
 ## 🌐 Live Website
 
 🔗 [Visit Burger Bliss Now](https://front-end-tfa1.vercel.app/)
+
+ ---
+
+ ## 📬 Contact
+
+For questions or feedback, feel free to connect:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sreya-rajesh11/)
+- 📧 Email: sreyarajesh110805@gmail.com
