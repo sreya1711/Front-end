@@ -1,4 +1,4 @@
-# 🍔 Burger Bliss - A Tasty Burger Shop Website
+# 🍔 Burger Bliss - A Burger Shop Website
 
 Welcome to **Burger Bliss** — a modern and responsive burger shop website built using **HTML**, **CSS**, and **JavaScript**. This project showcases a visually appealing design with smooth navigation, interactivity, and dynamic features to enhance the user experience.
 
